@@ -1,0 +1,11 @@
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/bin/Debug/netcoreapp2.2/Class1.deps.json
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/bin/Debug/netcoreapp2.2/Class1.runtimeconfig.json
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/bin/Debug/netcoreapp2.2/Class1.runtimeconfig.dev.json
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/bin/Debug/netcoreapp2.2/Class1.dll
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/bin/Debug/netcoreapp2.2/Class1.pdb
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.csprojAssemblyReference.cache
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.csproj.CoreCompileInputs.cache
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.AssemblyInfoInputs.cache
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.AssemblyInfo.cs
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.dll
+/Users/atotanes/Desktop/SDGKU/FSDI110/Class1/obj/Debug/netcoreapp2.2/Class1.pdb
